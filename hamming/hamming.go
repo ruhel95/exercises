@@ -19,8 +19,3 @@ func Distance(a, b string) (int, error) {
 	return count, nil
 }
 
-
-
-	//print("There is an err", err)
-
-}
